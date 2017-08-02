@@ -1,0 +1,6 @@
+D:\TestWork\LoremIspumHelper\LoremConsole\bin\Debug\LoremConsole.exe.config
+D:\TestWork\LoremIspumHelper\LoremConsole\bin\Debug\LoremConsole.exe
+D:\TestWork\LoremIspumHelper\LoremConsole\bin\Debug\LoremConsole.pdb
+D:\TestWork\LoremIspumHelper\LoremConsole\obj\Debug\LoremConsole.exe
+D:\TestWork\LoremIspumHelper\LoremConsole\obj\Debug\LoremConsole.pdb
+D:\TestWork\LoremIspumHelper\LoremConsole\obj\Debug\LoremConsole.csprojResolveAssemblyReference.cache

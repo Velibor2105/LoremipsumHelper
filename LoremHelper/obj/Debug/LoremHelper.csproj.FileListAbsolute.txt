@@ -1,0 +1,9 @@
+D:\TestWork\LoremIspumHelper\LoremHelper\bin\Debug\LoremHelper.exe.config
+D:\TestWork\LoremIspumHelper\LoremHelper\bin\Debug\LoremHelper.exe
+D:\TestWork\LoremIspumHelper\LoremHelper\bin\Debug\LoremHelper.pdb
+D:\TestWork\LoremIspumHelper\LoremHelper\obj\Debug\LoremHelper.csprojResolveAssemblyReference.cache
+D:\TestWork\LoremIspumHelper\LoremHelper\obj\Debug\LoremHelper.Properties.Resources.resources
+D:\TestWork\LoremIspumHelper\LoremHelper\obj\Debug\LoremHelper.csproj.GenerateResource.Cache
+D:\TestWork\LoremIspumHelper\LoremHelper\obj\Debug\LoremHelper.exe
+D:\TestWork\LoremIspumHelper\LoremHelper\obj\Debug\LoremHelper.pdb
+D:\TestWork\LoremIspumHelper\LoremHelper\obj\Debug\LoremHelper.Form1.resources

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoremHelper", "LoremHelper\LoremHelper.csproj", "{EC40F411-7A91-48FD-AD8E-9D86029DBAA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoremConsole", "LoremConsole\LoremConsole.csproj", "{8B82323F-AB7C-414F-98A0-A9D51F560982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Umbraco code generator", "Umbraco code generator\Umbraco code generator.csproj", "{A7323542-A31B-43C7-A134-F98824936B8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventTest", "EventTest\EventTest.csproj", "{170E8741-8D1A-436D-A458-1BAE1258796E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC40F411-7A91-48FD-AD8E-9D86029DBAA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC40F411-7A91-48FD-AD8E-9D86029DBAA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC40F411-7A91-48FD-AD8E-9D86029DBAA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC40F411-7A91-48FD-AD8E-9D86029DBAA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B82323F-AB7C-414F-98A0-A9D51F560982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B82323F-AB7C-414F-98A0-A9D51F560982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B82323F-AB7C-414F-98A0-A9D51F560982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B82323F-AB7C-414F-98A0-A9D51F560982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7323542-A31B-43C7-A134-F98824936B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7323542-A31B-43C7-A134-F98824936B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7323542-A31B-43C7-A134-F98824936B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7323542-A31B-43C7-A134-F98824936B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{170E8741-8D1A-436D-A458-1BAE1258796E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170E8741-8D1A-436D-A458-1BAE1258796E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170E8741-8D1A-436D-A458-1BAE1258796E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170E8741-8D1A-436D-A458-1BAE1258796E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

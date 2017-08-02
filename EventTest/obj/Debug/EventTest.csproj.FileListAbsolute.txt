@@ -1,0 +1,6 @@
+D:\TestWork\LoremIspumHelper\EventTest\bin\Debug\EventTest.exe.config
+D:\TestWork\LoremIspumHelper\EventTest\bin\Debug\EventTest.exe
+D:\TestWork\LoremIspumHelper\EventTest\bin\Debug\EventTest.pdb
+D:\TestWork\LoremIspumHelper\EventTest\obj\Debug\EventTest.csprojResolveAssemblyReference.cache
+D:\TestWork\LoremIspumHelper\EventTest\obj\Debug\EventTest.exe
+D:\TestWork\LoremIspumHelper\EventTest\obj\Debug\EventTest.pdb

@@ -1,0 +1,11 @@
+D:\TestWork\LoremIspumHelper\Umbraco code generator\bin\Debug\Umbraco code generator.exe.config
+D:\TestWork\LoremIspumHelper\Umbraco code generator\bin\Debug\Umbraco code generator.exe
+D:\TestWork\LoremIspumHelper\Umbraco code generator\bin\Debug\Umbraco code generator.pdb
+D:\TestWork\LoremIspumHelper\Umbraco code generator\obj\Debug\Umbraco code generator.csprojResolveAssemblyReference.cache
+D:\TestWork\LoremIspumHelper\Umbraco code generator\obj\Debug\Umbraco_code_generator.MainForm.resources
+D:\TestWork\LoremIspumHelper\Umbraco code generator\obj\Debug\Umbraco_code_generator.Properties.Resources.resources
+D:\TestWork\LoremIspumHelper\Umbraco code generator\obj\Debug\Umbraco code generator.csproj.GenerateResource.Cache
+D:\TestWork\LoremIspumHelper\Umbraco code generator\obj\Debug\Umbraco code generator.exe
+D:\TestWork\LoremIspumHelper\Umbraco code generator\obj\Debug\Umbraco code generator.pdb
+D:\TestWork\LoremIspumHelper\Umbraco code generator\obj\Debug\Umbraco_code_generator.TypeName.resources
+D:\TestWork\LoremIspumHelper\Umbraco code generator\obj\Debug\Umbraco_code_generator.Code.resources
